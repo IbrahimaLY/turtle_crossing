@@ -1,4 +1,9 @@
+# Auteur : Ibrahima Oumar LY
+# Date de création : 2025-03-07
+# Description : Ce fichier contient les fonctions pour le jeu Turtle Crossing.
+
 from turtle import Turtle
+
 
 STARTING_POSITION = (0, -280)
 MOVE_DISTANCE = 10

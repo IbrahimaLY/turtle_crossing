@@ -1,8 +1,13 @@
+# Auteur : Ibrahima Oumar LY
+# Date de création : 2025-03-07
+# Description : Ce fichier contient les fonctions pour le jeu Turtle Crossing.
+
 import time
 from turtle import Screen
 from player import Player
 from car_manager import CarManager
 from scoreboard import Scoreboard
+
 
 screen = Screen()
 screen.setup(width=600, height=600)

@@ -1,5 +1,10 @@
+# Auteur : Ibrahima Oumar LY
+# Date de création : 2025-03-07
+# Description : Ce fichier contient les fonctions pour le jeu Turtle Crossing.
+
 from turtle import Turtle
 import random
+
 
 COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
 STARTING_MOVE_DISTANCE = 5
